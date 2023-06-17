@@ -3,7 +3,8 @@ This is the second project in WBS data science bootcamp.
 The scope of the project was to investigate whether Eniac, a tech seller specialized in Apple products, should discount products to enhance sales.
 
 ### The Database
-The data was provided as 4 csv files.
+The data was provided as 4 csv files: orders, orderlines, products and brands.
+Before analysis and visualization, the data was cleaned.
 
 ### The Repository
 The repository includes following folder(s):
